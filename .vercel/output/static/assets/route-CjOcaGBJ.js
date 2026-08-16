@@ -1,0 +1,1 @@
+import{r as e}from"./useRouter-WerVnHPr.js";import{T as t}from"./index-DGSKwV02.js";var n=e(),r=()=>(0,n.jsx)(t,{});export{r as component};
