@@ -1,1 +1,0 @@
-var e={bookingUrl:`https://booking.example.com`,supportPhone:`+91XXXXXXXXXX`,supportEmail:`support@athros.ai`},t=`tel:${e.supportPhone.replace(/[^\d+]/g,``)}`,n=`mailto:${e.supportEmail}`;export{e as n,t as r,n as t};
