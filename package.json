@@ -1,5 +1,6 @@
 {
   "name": "athros",
+  "version": "0.0.2",
   "private": true,
   "sideEffects": false,
   "type": "module",
