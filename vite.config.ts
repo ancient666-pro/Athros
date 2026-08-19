@@ -36,7 +36,7 @@ export default defineConfig(({ command }) => ({
       ? [
           nitro({
             defaultPreset: process.env.VERCEL ? "vercel" : "cloudflare-module",
-            noExternals: ["tslib"],
+            externals: { inline: ["tslib"] },
           }),
         ]
       : []),
